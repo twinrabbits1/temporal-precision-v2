@@ -1,0 +1,5 @@
+{
+  "name": "Temporal Precision",
+  "description": "A high-precision, Blade Runner-themed reaction game where you stop a timer as close to a target as possible.",
+  "requestFramePermissions": []
+}
